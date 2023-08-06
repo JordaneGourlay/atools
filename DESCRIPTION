@@ -1,0 +1,14 @@
+Package: atools
+Title: Tools for data analyst and BI engeineer
+Version: 0.0.0.9000
+Authors@R: 
+    person("Jordane", "Gourlay", , "jordane.gourlay@gmail.com", role = c("aut", "cre"))
+Description: Tools for data analyst and BI engeineer.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
